@@ -50,3 +50,5 @@ GatsbyJS is super nice. I think I see a lot of potential for smaller & bigger ap
 **Link to work:**
 
 - Still need to publish this
+- Here's an image though  
+  ![blog](https://pbs.twimg.com/media/DwK2WRzV4AA4C9R.jpg:large "Blog")
