@@ -20,3 +20,33 @@ It's really easy to go longer than an hour after just getting started. I think t
 - [Blog in progress](http://personalsite-20190102214741-hostingbucket.s3-website-us-east-1.amazonaws.com/)
 - Discovery notes in [Evernote](https://www.evernote.com/l/AFAIbf5zx2NBkoOXXTEy6U5zzZdz8XHBlNw)
 - [Github for personal site](https://github.com/dbredvick/personal-site)
+
+---
+
+### Day 1: January 3, 2019
+
+**Today's Progress**:
+
+- Missed this day. Spent a lot of effort preparing for an upcoming sprint at [Spreetail](https://www.spreetail.com) and my boss took us all out for drinks to celebrate.
+
+**Thoughts:**
+Doing this _every_ day is going to be harder than I thought.
+
+**Link to work:**
+
+- Check out where I work - [Spreetail.com](https://www.spreetail.com)
+
+---
+
+### Day 2: January 4, 2019
+
+**Today's Progress**:
+
+- Updated my GatsbyJS site to actually use their blog starter. Then updated the blog with a intro post from me, used my pictures, etc.
+
+**Thoughts:**
+GatsbyJS is super nice. I think I see a lot of potential for smaller & bigger applications using this tech.
+
+**Link to work:**
+
+- Still need to publish this
