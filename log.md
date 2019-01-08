@@ -87,3 +87,18 @@ GraphQL looks nice so far! I'd like to get it into a little heavier of an applic
 - [code on Github](https://github.com/dbredvick/personal-blog)
 - Here's the about page -  
   [blog/about](http://personalblog-20190106221204-hostingbucket.s3-website-us-east-1.amazonaws.com/about/)
+
+---
+
+### Day 5: January 7, 2019
+
+**Today's Progress**:
+
+- Tried to switch DNS for my Google domain to work with my S3 bucket on AWS. Steuggled with this for quite awhile.
+
+**Thoughts:**
+I'm considering deploying on Google just so that the domain will play nicer with the assets.
+
+**Link to work:**
+
+- No link today - I just struggled with DNS/AWS/Google.
