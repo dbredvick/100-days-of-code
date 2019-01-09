@@ -102,3 +102,19 @@ I'm considering deploying on Google just so that the domain will play nicer with
 **Link to work:**
 
 - No link today - I just struggled with DNS/AWS/Google.
+
+---
+
+### Day 6: January 8, 2019
+
+**Today's Progress**:
+
+- I wrote a page on my blog for 100-days-of-code so that I can track progress there as well.
+- Wrote some GraphQL queries to setup a new section for posts under the 100-days-of-code page. This is the **Daily Updates** section.
+
+**Thoughts:**
+I am really liking this JAM stack idea. I think it will work really well for content heavy sites.
+
+**Link to work:**
+
+- [blog/100-days-of-code](http://personalblog-20190106221204-hostingbucket.s3-website-us-east-1.amazonaws.com/100-days-of-code/)
