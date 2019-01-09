@@ -118,3 +118,4 @@ I am really liking this JAM stack idea. I think it will work really well for con
 **Link to work:**
 
 - [blog/100-days-of-code](http://personalblog-20190106221204-hostingbucket.s3-website-us-east-1.amazonaws.com/100-days-of-code/)
+- Here's the code: [github.com/dbredvick/personal-blog/commit/](https://github.com/dbredvick/personal-blog/commit/25a404e811022ee800d0170342f303cfb831f083)
